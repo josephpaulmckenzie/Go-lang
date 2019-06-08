@@ -1,1 +1,5 @@
 src/send-text/.env
+src/read-from-database/.env
+src/aws/s3/.env
+src/aws/sqs/.env
+
